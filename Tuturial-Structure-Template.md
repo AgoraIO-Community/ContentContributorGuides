@@ -41,7 +41,7 @@ There will be multiple Build XYZ sections within a single tutorial. The goal is 
 
 The Build XYZ section should be broken down into subsections that build the project in smaller chunks. This section could explain how to implement a set of functions that operate together to produce a specific feature of the project. Be sure to explain all inputs and outputs, discuss their significance within the code and how they work together.  
 
-Within the Build and Build Subsections there should be code snippets included. All snippets should use GitHub Gists (on Agora Blog and Medium) and ``` within Dev.to or .md files.  
+Within the Build and Build Subsections there should be code snippets included. All snippets should use GitHub Gists _(on Agora Blog and Medium)_ and ``` within Dev.to or .md files.  
 
 When embedding code using ``` be sure to include the language name.  
 
