@@ -8,7 +8,7 @@ The Agora Content Contributor Program allows developers to create content for th
 ## Writing Process ##
 After you’ve submitted your application, a member of the Agora Dev Evangelist team will work with you to refine your outline and the feature set of your tutorial.
 
-When writing a content for the Agora Content Contributor program, all tutorials must follow the writing template. 
+When writing a content for the Agora Content Contributor program, all tutorials must follow the writing [template](https://docs.google.com/document/d/1dgXSGk5QCZQbe7J-lUXInkcdeEBM1RDZNXNS1SGoC6I/edit?usp=sharing) structure and [writing style guidelines](/content-contributor-program-writing-guidelines.pdf). 
 
 Once the tutorial is written, authors must include a headline and the `meta` data tags ( `author`, `description`, and `keywords`) for their submissions.
 
