@@ -3,7 +3,7 @@ This repository will contain all documents related to the process for publishing
 
 The Agora Content Contributor Program allows developers to create content for the Agora community. The work of community contributors expands and strengthens Agora’s Real-Time Engagement Platform tutorials. 
 
-> For more information see the [Agora Content Contributor]() page.
+> For more information please reach out to [community@agora.io](mailto:community@agora.io?subject=[GitHub]%20Content%20Contributor%20More%20Info).
 
 ## Writing Process ##
 After you’ve submitted your application, a member of the Agora Dev Evangelist team will work with you to refine your outline and the feature set of your tutorial.
