@@ -43,9 +43,8 @@ The Build XYZ section should be broken down into subsections that build the proj
 
 Within the Build and Build Subsections there should be code snippets included. All snippets should use GitHub Gists _(on Agora Blog and Medium)_ and ``` within Dev.to or .md files.  
 
-When embedding code using ``` be sure to include the language name.  
-
-For example, use ```javascript to ensure it’s rendered with the proper code highlighting.  
+When embedding code using ``` be sure to include the language name to ensure the proper code highlighting when the markdown renders. For example, for javascript code snippets use:
+>```javascript  
 
 When embedding code using GitHub Gists, if the code is only a snippet make sure to denote that in the file name following the format: `functionName+snippet.fileExtension`  
 
