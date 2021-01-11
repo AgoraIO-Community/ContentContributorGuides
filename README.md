@@ -22,7 +22,7 @@ Once the tutorial is written, authors must include a headline and the `meta` dat
 Once the tutorial is complete and ready for review, the Agora team will work with you to submit your first draft for review. 
 
 ## Review Submissions ##
-When submitting content for review it must be submitted as both a _draft_ link on Medium and within a Google Doc. The Medium _draft_ will represent the tutorial with its final formatting, while the Google Doc will be used to add suggestions, comments, and any other feedback during the review process. 
+When submitting content for review it must be submitted as *BOTH* a _draft_ link on Medium and within a Google Doc. The Medium _draft_ will represent the tutorial with its final formatting, while the Google Doc will be used to add suggestions, comments, and any other feedback during the review process. 
 
 > For more details see the Medium Help Center guide ["Share a draft"](https://help.medium.com/hc/en-us/articles/215564177-Share-a-draft)
 
