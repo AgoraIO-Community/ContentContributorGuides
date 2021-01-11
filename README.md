@@ -26,7 +26,7 @@ When submitting content for review it must be submitted as **BOTH** a _draft_ li
 
 > For more details see the Medium Help Center guide ["Share a draft"](https://help.medium.com/hc/en-us/articles/215564177-Share-a-draft)
 
-Along with the two draft links, inlcude the GitHub repo link for the completed code from your tutorial.
+Along with the two draft links, inlcude the **GitHub** repo link for the completed code from your tutorial.
 
 After you’ve submitted your first draft, an Agora Evangelist team member will pair you with an editor to help you revise and polish your work.
 
