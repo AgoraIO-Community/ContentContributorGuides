@@ -26,6 +26,8 @@ When submitting content for review it must be submitted as **BOTH** a _draft_ li
 
 > For more details see the Medium Help Center guide ["Share a draft"](https://help.medium.com/hc/en-us/articles/215564177-Share-a-draft)
 
+Along with the two draft links, inlcude the GitHub repo link for the completed code from your tutorial.
+
 After you’ve submitted your first draft, an Agora Evangelist team member will pair you with an editor to help you revise and polish your work.
 
 Once the comments and suggestions are all resolved on the Google Doc, the author will make the corresponding updates to the Medium draft. After all updates are made and the article is ready for publication, the Agora team will work with you to submit your project for publication. 
