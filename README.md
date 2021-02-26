@@ -19,7 +19,7 @@ Once the tutorial is written, authors must include a headline and the `meta` dat
 ```
 > For more information on meta tags see [W3School's Meta Tag](https://www.w3schools.com/tags/tag_meta.asp)
 
-Authors must also include an "About the author" description, giving some background and highlights about the author. Authors are requested to include a photo of themselves.
+Authors must also include an "About the author" description, giving some background and highlights about the author. Authors are requested to include a photo of themselves and their social media handles.
 
 Once the tutorial is complete and ready for review, the Agora team will work with you to submit your first draft for review. 
 
