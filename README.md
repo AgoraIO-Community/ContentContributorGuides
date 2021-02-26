@@ -40,3 +40,6 @@ Once the editting process is complete, the tutorial will first be published on t
 > For more details see the Medium Help Center guide ["Set a canonical link"](https://help.medium.com/hc/en-us/articles/360033930293-Set-a-canonical-link)
 
 Once the canonical link is set, the author may publish their tutorial to Medium. 
+
+## Social Promotion ##
+Once the article is posted live, authors are encouraged to share the link to their various social media channels. When sharing on social media, authors are encouraged to tag Agora's social accounts.
