@@ -36,14 +36,14 @@ The following figure shows the callflow between the different elements you use t
 
 > List what the reader needs to know, as well as packages or SDKS that must be available, to successfully work through the tutorial. Keep the list short, but be sure to include language and concepts the reader should be familiar with.
 > 
-> **IMPORTANT**: The first prerequisite will always include a link to the _“Before Getting Started”_ tutorial using URL: https://docs.agora.io/en/Agora%20Platform/get_appid_token?platform=All%20Platforms.
+> **IMPORTANT**: The first prerequisite will always include a link to the _“Get Started with Agora”_ tutorial using URL: https://docs.agora.io/en/Agora%20Platform/get_appid_token?platform=All%20Platforms.
 > 
 > For example:
 
 
 To successfully understand and complete this task you must have the following:
 
-- A valid [Agora account](https://docs.agora.io/en/Agora%20Platform/sign_in_and_sign_up). If you don't have an account, see how to [Get started with Agoras](https://www.agora.io/en/blog/how-to-get-started-with-agora?utm_source=medium&utm_medium=blog&utm_campaign=PAGE_TITLE).
+- A valid [Agora account](https://docs.agora.io/en/Agora%20Platform/sign_in_and_sign_up). If you don't have an account, see how to [Get started with Agora](https://docs.agora.io/en/Agora%20Platform/get_appid_token?platform=All%20Platforms).
   > The URL to the setup the Agora account is made up of _URL_:_PAGE_TITLE_. 
   > For a blog named _How to Build a Token Server for Agora Applications using GoLang_ the link is: https://www.agora.io/en/blog/how-to-get-started-with-agora?utm_source=medium&utm_medium=blog&utm_campaign=How_to_Build_a_Token_Server_for_Agora_Applications_using_GoLang
   > 
