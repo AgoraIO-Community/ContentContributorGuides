@@ -1,6 +1,35 @@
 ## Available Content Topics 
 Interested in the [Agora Content Contributor Program](https://www.agora.io/en/agora-content-contributor-program/) but aren't sure what to write about? Below is a list of suggeted topics for content we would be interested in seeing. 
 
+### Active speaker highlight in a grid view video call
+- Web
+- Anroid
+- iOS
+- other platforms available
+
+### Hand gesture recognition during video call
+(Speaker can physically raise hand in the video call. Other speakers will see a notification)
+- Web
+- Android
+- iOS
+- other platforms available
+
+### Broadcast: host and audience role swtich
+(Audience can request to speak. Host can approve to promote the audience to speak)
+- Web (Community-Pending)
+- Android
+- React
+- React native
+- iOS
+- other platforms available
+
+### Muted microphone reminder
+- Web (Community-Pending)
+- Android
+- React
+- React Native
+- iOS
+
 ### Build many to many, live voice broadcast 
 - Android
 - Windows
@@ -9,6 +38,8 @@ Interested in the [Agora Content Contributor Program](https://www.agora.io/en/ag
 - Unreal
 - Vue.js 
 - Angular
+- React Native (CCP-Pending)
+- Unity (Community-Pending)
 
 ### Build 1:1 video call 
 (limit to 1:1)
@@ -18,7 +49,7 @@ Interested in the [Agora Content Contributor Program](https://www.agora.io/en/ag
 - Xamarin
 - Electron
 - Unreal
-- React
+- React (Community-closed)
 - Vue.js 
 - Angular
 
@@ -89,7 +120,7 @@ Interested in the [Agora Content Contributor Program](https://www.agora.io/en/ag
 - Electron
 - Unreal
 - React Native
-- Flutter
+- Flutter 
 - Vanilla JS
 - React
 - Vue.js
@@ -132,7 +163,7 @@ Interested in the [Agora Content Contributor Program](https://www.agora.io/en/ag
 - Electron
 - Unreal
 - React Native
-- Flutter
+- Flutter (CCP-Pending)
 - React
 - Vue.js
 - Angular
@@ -147,4 +178,5 @@ Interested in the [Agora Content Contributor Program](https://www.agora.io/en/ag
 - React
 - Vue.js
 - Angular
+- Flutter (Community-Closed)
 
