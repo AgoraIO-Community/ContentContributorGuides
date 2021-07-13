@@ -5,6 +5,7 @@ Interested in the [Agora Content Contributor Program](https://www.agora.io/en/ag
 - Web
 - Anroid
 - iOS
+- Flutter (CCP-Pending)
 - other platforms available
 
 ### Hand gesture recognition during video call
@@ -24,6 +25,7 @@ Interested in the [Agora Content Contributor Program](https://www.agora.io/en/ag
 - other platforms available
 
 ### Muted microphone reminder
+(If the speaker is talking while the microphone is muted, a message will show up to remind the speaker to unmute the microphone.)
 - Web (Community-Pending)
 - Android
 - React
