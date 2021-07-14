@@ -177,7 +177,7 @@ Interested in the [Agora Content Contributor Program](https://www.agora.io/en/ag
 - Electron
 - Unreal
 - Vanilla JS
-- React
+- React (CCP-Pending)
 - Vue.js
 - Angular
 - Flutter (Community-Closed)
