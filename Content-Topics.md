@@ -1,11 +1,11 @@
 ## Available Content Topics 
-Interested in the [Agora Content Contributor Program](https://www.agora.io/en/agora-content-contributor-program/) but aren't sure what to write about? Below is a list of suggeted topics for content we would be interested in seeing. 
+Interested in becoming an [Agora Content Contributor](https://www.agora.io/en/agora-content-contributor-program/) but aren't sure what to write about? Below is a list of suggeted topics for content we would be interested in seeing. 
 
 ### Active speaker highlight in a grid view video call
 - Web
 - Anroid
 - iOS
-- Flutter (CCP-Pending)
+- Flutter (ACC-Pending)
 - other platforms available
 
 ### Hand gesture recognition during video call
@@ -40,7 +40,7 @@ Interested in the [Agora Content Contributor Program](https://www.agora.io/en/ag
 - Unreal
 - Vue.js 
 - Angular
-- React Native (CCP-Pending)
+- React Native (ACC-Pending)
 - Unity (Community-Pending)
 
 ### Build 1:1 video call 
@@ -165,7 +165,7 @@ Interested in the [Agora Content Contributor Program](https://www.agora.io/en/ag
 - Electron
 - Unreal
 - React Native
-- Flutter (CCP-Pending)
+- Flutter (ACC-Pending)
 - React
 - Vue.js
 - Angular
@@ -177,7 +177,7 @@ Interested in the [Agora Content Contributor Program](https://www.agora.io/en/ag
 - Electron
 - Unreal
 - Vanilla JS
-- React (CCP-Pending)
+- React (ACC-Pending)
 - Vue.js
 - Angular
 - Flutter (Community-Closed)
