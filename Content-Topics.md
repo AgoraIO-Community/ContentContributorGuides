@@ -114,7 +114,7 @@ Interested in the [Agora Content Contributor Program](https://www.agora.io/en/ag
 - Angular
 
 ### Voice effects
-- Android
+- Android (ACC Pending)
 - iOS
 - macOS
 - Windows
