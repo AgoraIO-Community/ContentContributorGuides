@@ -1,14 +1,14 @@
-# Agora Community - Content Contributor Guides #
-This repository will contain all documents related to the process for publishing content for the Agora Content Contributor Program. Please read the sections below and follow the instructions before submitting content for review/publication.
+# Agora Community - Content Contributors Guides #
+This repository will contain all documents related to the process for publishing content for as part of the Agora Content Contributors (ACC) initiative. Please read the sections below and follow the instructions before submitting content for review/publication.
 
-The Agora Content Contributor Program allows developers to create content for the Agora community. The work of community contributors expands and strengthens Agora’s Real-Time Engagement Platform tutorials. 
+Agora Content Contributors are developers who create content for the Agora community. The work of community contributors expands and strengthens Agora’s Real-Time Engagement Platform tutorials. 
 
 > For more information please reach out to [community@agora.io](mailto:community@agora.io?subject=[GitHub]%20Content%20Contributor%20More%20Info).
 
 ## Writing Process ##
 After you’ve submitted your application, a member of the Agora Dev Evangelist team will work with you to refine your outline and the feature set of your tutorial.
 
-When writing content for the Agora Content Contributor Program, tutorials must follow the writing [template structure](/External-Tutorial-Structure-Template.md) ([Google Doc version](https://docs.google.com/document/d/1dgXSGk5QCZQbe7J-lUXInkcdeEBM1RDZNXNS1SGoC6I/edit?usp=sharing)) and [writing style guidelines](/content-contributor-program-writing-guidelines.pdf). 
+When writing ACC content, tutorials must follow the writing [template structure](/External-Tutorial-Structure-Template.md) ([Google Doc version](https://docs.google.com/document/d/1dgXSGk5QCZQbe7J-lUXInkcdeEBM1RDZNXNS1SGoC6I/edit?usp=sharing)) and [writing style guidelines](/content-contributor-program-writing-guidelines.pdf). 
 
 Once the tutorial is written, authors must include a headline and the `meta` data tags (`author`, `description`, and `keywords`) for their submissions.
 
