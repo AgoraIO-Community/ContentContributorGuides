@@ -158,7 +158,7 @@ Interested in becoming an [Agora Content Contributor](https://www.agora.io/en/ag
 ### RTM for RTC channel admin
 (mute/unmute video/audio, kick from channel)
 - Android
-- iOS
+- iOS (DE - in progress)
 - macOS
 - Windows
 - Xamarin
@@ -171,7 +171,6 @@ Interested in becoming an [Agora Content Contributor](https://www.agora.io/en/ag
 - Angular
 
 ### Request a token from a server
-- Android
 - Windows
 - Xamarin
 - Electron
@@ -180,5 +179,4 @@ Interested in becoming an [Agora Content Contributor](https://www.agora.io/en/ag
 - React (ACC-Pending)
 - Vue.js
 - Angular
-- Flutter (Community-Closed)
 
