@@ -66,3 +66,5 @@ Always include a section at the end of each post that includes links to the rele
 
 Also include a link to the Agora Developer Slack using this text:
 > I also invite you to join the Agora.io Developer Slack community.
+
+Agora Developer Slack community invite URL: https://www.agora.io/en/join-slack/
