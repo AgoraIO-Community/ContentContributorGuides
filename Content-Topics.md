@@ -51,7 +51,6 @@ Interested in becoming an [Agora Content Contributor](https://www.agora.io/en/ag
 
 ### Build group video call
 - Windows
-- Electron
 - Unreal
 - Vue.js 
 
