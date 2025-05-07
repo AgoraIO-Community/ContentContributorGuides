@@ -2,7 +2,7 @@
 
 The following are specific guidelines for guides written by the Agora team. This document is setup as a checklist to ensure the guide fits the format and style of the Agora Developer Guides.
 
-For suggestions on the format and style, please refer to the [Internal-Tutorial-Structure-Template.md](./Internal-Tutorial-Structure-Template.md).
+For suggestions on the format and style, please refer to the [Agora-Tutorial-Structure-Template.md](./Agora-Tutorial-Structure-Template.md).
 
 ## Packaging
 
